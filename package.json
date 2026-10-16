@@ -1,7 +1,6 @@
 {
   "name": "pulsesync-lyrics-translation",
   "version": "1.2.0",
-  "private": true,
   "type": "module",
   "description": "Synchronized lyrics translation for PulseSync",
   "packageManager": "yarn@1.22.22",
